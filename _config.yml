@@ -21,6 +21,7 @@ author: Kenny Alami
 
 navbar-links:
   Blog: "blog"
+  Manage Subscription: "https://billing.stripe.com/p/login/aEU5nY9Ls0KQ688dQQ"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
