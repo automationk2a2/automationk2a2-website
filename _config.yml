@@ -13,14 +13,14 @@
 title: Automation k2a2
 
 # Your name to show in the footer
-author: Kenny Alami
+author: Automation k2a2
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Blog: "blog"
+#  Blog: "blog"
   Manage Subscription: "https://billing.stripe.com/p/login/aEU5nY9Ls0KQ688dQQ"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -51,7 +51,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "kenny@automationk2a2.com"
+  email: "hello@automationk2a2.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
