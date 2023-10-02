@@ -20,7 +20,7 @@ author: Automation k²a²
 ###############################################
 
 navbar-links:
-#  Blog: "blog"
+  Blog: "blog"
   Manage Subscription: "https://billing.stripe.com/p/login/aEU5nY9Ls0KQ688dQQ"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
